@@ -1,0 +1,3 @@
+{$APP_NAME}.your-tailnet-ID-here.ts.net {
+    reverse_proxy immich-server:2289
+}
